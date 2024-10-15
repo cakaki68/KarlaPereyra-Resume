@@ -122,7 +122,7 @@
     {
       "name": "Excel",
       "level": "Advanced",
-      "keywords": ["Data Analysis", "Formulas", "Visualization"]
+      "keywords": ["Data Analysis", "Data Cleaning", "Data Visualization"]
     }
   ],
   "languages": [
@@ -132,20 +132,59 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Native"
     }
   ],
   "certifications": [
     {
       "name": "Advanced Data Analytics in Power BI",
       "issuer": null,
-      "date": null
+      "date": "2023"
     },
     {
       "name": "The Complete Oracle SQL Bootcamp",
       "issuer": null,
       "date": "2023"
     }
+,
+    {
+      "name": "Database Administration in Oracle",
+      "issuer": null,
+      "date": "2022"
+    }
+,
+    {
+      "name": "Introduction to Statistics",
+      "issuer": null,
+      "date": "2022"
+    }
+
+   ,
+    {
+      "name": "Linear Regression for Business Statistics",
+      "issuer": null,
+      "date": "2024"
+    }
+   ,
+    {
+      "name": "Visual Analytics with Tableau",
+      "issuer": null,
+      "date": "2024"
+    }
+    ,
+    {
+      "name": "Microsoft Excel - Advanced Excel Formulas & Functions",
+      "issuer": null,
+      "date": "2022"
+    }
+    ,
+    {
+      "name": "Microsoft Excel - Data Visualization, Excel Charts & Graphs",
+      "issuer": null,
+      "date": "2022"
+    }
+
+
   ],
   "projects": [
     {
